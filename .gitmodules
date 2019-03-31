@@ -1,0 +1,3 @@
+[submodule "git_child"]
+	path = git_child
+	url = https://github.com/lengruobingxiang/git_child.git
